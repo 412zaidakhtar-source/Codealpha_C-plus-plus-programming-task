@@ -1,33 +1,23 @@
-# CodeAlpha C plus plus Programming Tasks
+# CodeAlpha C++ Programming Tasks
 
-This repository contains C plus plus programs completed during the CodeAlpha internship. The projects focus on logic building, problem solving, and core programming concepts.
+This repository contains my solutions for the C++ programming internship at CodeAlpha. Each project demonstrates core C++ concepts, problem-solving, and logic implementation.
 
-## Projects Included
+## 🚀 Projects Included
 
-1. Banking System  
-A console based application to manage accounts, deposits, and withdrawals.
+* **Banking System:** A console-based application to manage accounts, deposits, and withdrawals.
+* **Sudoku Solver:** An algorithmic approach using backtracking to solve Sudoku puzzles.
+* **CGPA Calculator:** A tool for students to calculate their semester and cumulative GPA.
+* **Login and Registration System:** A secure system handling user credentials and file-based data storage.
 
-2. Sudoku Solver  
-Solves a 9 by 9 Sudoku puzzle using backtracking.
+## 🛠️ Technologies Used
+* Language: C++
+* Compiler: GCC/G++
+* Version Control: Git & GitHub
 
-3. CGPA Calculator  
-Calculates semester and cumulative GPA based on user input.
-
-4. Login and Registration System  
-Handles user registration and login using file based storage.
-
-## Technologies Used
-
-Language: C plus plus  
-Compiler: GCC or G plus plus  
-Version Control: Git and GitHub  
-
-## How to Run
-
-1. Clone the repository  
-2. Open the project folder  
-3. Compile the program  
-4. Run the executable  
-
-Example:
-
+## 📝 How to Run
+1. Clone the repository:
+   `git clone https://github.com/412zaidakhtar-source/Codealpha_C-plus-plus-programming-task.git`
+2. Compile any file:
+   `g++ FileName.cpp -o FileName`
+3. Execute:
+   `./FileName`
